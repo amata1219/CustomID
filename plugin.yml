@@ -1,0 +1,12 @@
+name: CustomID
+main: amata1219.custom.id.CustomID
+version: 1.2
+api-version: 1.13
+author: amata1219(Twitter@amata1219)
+
+commands:
+  customid:
+    description: main command.
+    usage: /<command>
+    permission: custom.id.customid
+    permission-message: You do not have permission (<permission>).
